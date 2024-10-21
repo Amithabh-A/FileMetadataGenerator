@@ -1,0 +1,14 @@
+/Users/amithabh_a/Projects/FileMetadataGenerator/bin/Debug/net8.0/FileMetadataGenerator
+/Users/amithabh_a/Projects/FileMetadataGenerator/bin/Debug/net8.0/FileMetadataGenerator.deps.json
+/Users/amithabh_a/Projects/FileMetadataGenerator/bin/Debug/net8.0/FileMetadataGenerator.runtimeconfig.json
+/Users/amithabh_a/Projects/FileMetadataGenerator/bin/Debug/net8.0/FileMetadataGenerator.dll
+/Users/amithabh_a/Projects/FileMetadataGenerator/bin/Debug/net8.0/FileMetadataGenerator.pdb
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.AssemblyInfoInputs.cache
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.AssemblyInfo.cs
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.csproj.CoreCompileInputs.cache
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.dll
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/refint/FileMetadataGenerator.dll
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.pdb
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/FileMetadataGenerator.genruntimeconfig.cache
+/Users/amithabh_a/Projects/FileMetadataGenerator/obj/Debug/net8.0/ref/FileMetadataGenerator.dll
