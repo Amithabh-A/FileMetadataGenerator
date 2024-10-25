@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FileMetadataGenerator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5a87b646c513ce0d356d019bd358710ccf12ff15")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c92b5d10da04b75252da1ac705b4f90a7ea4736d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FileMetadataGenerator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FileMetadataGenerator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

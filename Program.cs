@@ -22,6 +22,11 @@ class Program
             return;
         }
 
+        CreateMetadataFile(directoryPath);
+    }
+
+    private static void CreateMetadataFile(string directoryPath)
+    {
         var metadata = new List<FileMetadata>();
         string metadataFilePath = Path.Combine(directoryPath, "metadata.json");
 
