@@ -1,10 +1,14 @@
 [
   {
+    "FileName": "README.md",
+    "FileHash": "491fdd45d67821ece2a69cff55746ea15c2ca55dd5633fae085b5f1202a4b69e"
+  },
+  {
     "FileName": "FileMetadataGenerator.csproj",
     "FileHash": "8d5bb1bf8634e3fab11f1f50d464ec6ce923222265ffb946f26faa9528008b2c"
   },
   {
     "FileName": "Program.cs",
-    "FileHash": "9d67d347a425b4c1254415e97e20d9bdf56fe4f9b647e3b2375a1b7d13a18706"
+    "FileHash": "35f19aec4bab7da8054b8a9e3dbd3a018bed3a4f008fc35b81f2da7d498893e2"
   }
 ]
